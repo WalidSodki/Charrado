@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Charrado</string>
+
+    <string-array name="words">
+        <item>Airplane</item>
+        <item>Ears</item>
+        <item>Piano</item>
+        <item>Angry</item>
+        <item>Elephant</item>
+        <item>Pinch</item>
+        <item>Baby</item>
+        <item>Fish</item>
+        <item>Reach</item>
+        <item>Ball</item>
+        <item>Baseball</item>
+        <item>Football</item>
+        <item>Roll</item>
+        <item>Basketball</item>
+        <item>Fork</item>
+        <item>Sad</item>
+        <item>Bounce</item>
+        <item>Giggle</item>
+        <item>Scissors</item>
+        <item>Cat</item>
+        <item>Golf</item>
+        <item>Skip</item>
+        <item>Chicken</item>
+        <item>Guitar</item>
+        <item>Sneeze</item>
+        <item>Hammer</item>
+        <item>Piano</item>
+        <item>Spin</item>
+        <item>Clap</item>
+        <item>Happy</item>
+        <item>Spoon</item>
+        <item>Cough</item>
+        <item>Horns</item>
+        <item>Stomp</item>
+        <item>Cry</item>
+        <item>Joke</item>
+        <item>Dog</item>
+        <item>Mime</item>
+        <item>Tail</item>
+        <item>Drink</item>
+        <item>Penguin</item>
+        <item>Toothbrush</item>
+        <item>Drums</item>
+        <item>Phone</item>
+        <item>Wiggle</item>
+        <item>Duck</item>
+        <item>Photographer</item>
+        <item>Archer</item>
+        <item>Ghost</item>
+        <item>Rock star</item>
+        <item>Balance beam</item>
+        <item>Haircut</item>
+        <item>Shoelaces</item>
+        <item>Ballet</item>
+        <item>Halo</item>
+        <item>Sick</item>
+        <item>Balloon</item>
+        <item>Hiccup</item>
+        <item>Singer</item>
+        <item>Banana peel</item>
+        <item>Hot dog</item>
+        <item>Book</item>
+        <item>Hungry</item>
+        <item>Soccer</item>
+        <item>Button</item>
+        <item>Ice skating</item>
+        <item>Strong</item>
+        <item>Car</item>
+        <item>Karate</item>
+        <item>Stubbed toe</item>
+        <item>Cheers</item>
+        <item>Ladder</item>
+        <item>Sunshine</item>
+        <item>Light bulb</item>
+        <item>Surprise</item>
+        <item>Dinosaur</item>
+        <item>Limbo</item>
+        <item>Swing</item>
+        <item>Disco</item>
+        <item>Macarena</item>
+        <item>Sword</item>
+        <item>Dizzy</item>
+        <item>Paint</item>
+        <item>Tap dance</item>
+        <item>Pirate</item>
+        <item>Wheelbarrow</item>
+        <item>Fishing</item>
+        <item>Read</item>
+        <item>Wizard of Oz</item>
+        <item>Swimming</item>
+        <item>Mowing the lawn</item>
+        <item>Make the bed</item>
+        <item>Making tea</item>
+        <item>Dancing</item>
+        <item>Spy</item>
+        <item>Kick</item>
+        <item>Punch</item>
+        <item>Sunglasses</item>
+        <item>Jump</item>
+        <item>Scissors</item>
+        <item>Star</item>
+        <item>Tree</item>
+    </string-array>
+</resources>
